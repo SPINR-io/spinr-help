@@ -3,4 +3,4 @@ Api Details
 
 Help content needs writing..
 
-![Image of Yaktocat](https://media.giphy.com/media/13ODqTO2z3hpMQ/giphy.gif)
+![](http://www.reactiongifs.com/wp-content/uploads/2013/02/mondays.gif)
