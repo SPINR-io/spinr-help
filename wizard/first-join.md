@@ -5,4 +5,4 @@ Api First Join
 
 Need content... writing.
 
-![](http://www.reactiongifs.com/wp-content/uploads/2013/02/mondays.gif)
+![](https://github.com/shapingcloud/spinr-help/blob/master/wizard/api-column-select.gif?raw=true)
