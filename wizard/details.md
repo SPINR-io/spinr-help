@@ -1,7 +1,4 @@
 Api Details
------------
-
-
 
 Need content... writing.
 
