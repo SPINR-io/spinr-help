@@ -1,6 +1,5 @@
 ## Select Columns to join
 
----
 
 ![](https://github.com/shapingcloud/spinr-help/blob/master/wizard/api-column-select.gif?raw=true)
 
