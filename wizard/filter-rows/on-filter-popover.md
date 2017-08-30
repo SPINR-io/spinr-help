@@ -1,4 +1,4 @@
 @title: Select column
 @content: shortform
 
-Select a column for which you want to set filters on.
+Select a column and enter a value to filter on.
